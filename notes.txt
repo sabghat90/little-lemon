@@ -1,0 +1,11 @@
+username = admin
+password = admin123
+role = admin
+
+username = manager
+password = manager123
+role = manager
+
+username = customer1
+password = customer123
+role = customer
